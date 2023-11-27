@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Yuk! share cerita kamu disini</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story App!</string>
+    <string name="title_register_page">Yuk, lengkapi data dirimu di bawah ini!</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Sudah siap share ceritamu?</string>
+    <string name="message_login_page">Yuk, Login dulu</string>
+    <string name="camera">kamera</string>
+    <string name="gallery">galeri</string>
+    <string name="description">deskripsi\n</string>
+    <string name="upload">Upload\n</string>
+    <string name="sign_out">Keluar</string>
+    <string name="are_you_sure">Apakah anda yakin?</string>
+    <string name="oke">oke</string>
+    <string name="cancel">batal</string>
+    <string name="detail_story">story detail</string>
+    <string name="login_succes">Login Sukses</string>
+    <string name="login_failed">Login Gagal</string>
+    <string name="create_account_succes">Berhasil Membuat Akun</string>
+    <string name="create_account_failed">Gagal Membuat Akun:(</string>
+    <string name="upload_story">Upload</string>
+    <string name="add_new_story_success">Berhasil Menambah Story</string>
+    <string name="add_new_story_failed">Gagal Menambah Story</string>
+    <string name="empty_image_warning">Gambar Kosong</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">coba lagi\n</string>
+    <string name="UseLocation">Gunakan Lokasi Saat Ini?</string>
+
+</resources>
